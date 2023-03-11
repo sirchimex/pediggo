@@ -1,0 +1,2 @@
+# pediggo
+Temporal static website
